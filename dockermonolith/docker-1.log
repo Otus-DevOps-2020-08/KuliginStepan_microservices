@@ -1,0 +1,4 @@
+REPOSITORY                 TAG                 IMAGE ID            CREATED             SIZE
+skuligin/ubuntu-tmp-file   latest              acd6b4d1a09e        7 seconds ago       63.3MB
+ubuntu                     18.04               2c047404e52d        2 days ago          63.3MB
+hello-world                latest              bf756fb1ae65        11 months ago       13.3kB
