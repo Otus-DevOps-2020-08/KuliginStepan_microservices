@@ -46,8 +46,7 @@ branch review:
     name: branch/$CI_COMMIT_REF_NAME
     url: http://$CI_ENVIRONMENT_SLUG.example.com
   rules:
-    - if: $CI_COMMIT_BRANCH
-    - if: '$CI_COMMIT_BRANCH != "master"'
+    - if: '$CI_COMMIT_BRANCH && $CI_COMMIT_BRANCH != "master"'
 
 staging:
   stage: stage
