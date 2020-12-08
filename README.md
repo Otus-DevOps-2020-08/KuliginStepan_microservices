@@ -14,3 +14,7 @@ KuliginStepan microservices repository
 3. Создал .env файл со всеми переменными среды
 
 docker compose по умолчанию делает префикс по названию директории, префикс можно задать так `docker-compose -p NAME up -d`
+
+---
+1. Поднял инсталляцию GitLab
+2. Попрактиковался с GitLab CI
