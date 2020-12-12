@@ -18,3 +18,9 @@ docker compose по умолчанию делает префикс по назв
 ---
 1. Поднял инсталляцию GitLab
 2. Попрактиковался с GitLab CI
+---
+1. Поднял prometheus
+2. Добавил в мониторинг сервисы
+3. Поднял node-exporter
+
+Ссылка на docker hub: https://hub.docker.com/u/skuligin
