@@ -1,5 +1,5 @@
 # KuliginStepan_microservices
-KuliginStepan microservices repository 
+KuliginStepan microservices repository
 
 ---
 1. Добавил Dockerfile для приложения
@@ -29,3 +29,8 @@ docker compose по умолчанию делает префикс по назв
 1. Поднял EFK стэк для сбора логов
 2. Настроил fluentd на сбор структурированных и неструктуррированных логов
 3. Поднял zipkin для распределенной трассировки
+
+---
+1. Написал helm чарты для деплоя приложения
+2. Поднял кластер Gitlab в kubernetes
+3. Написал gitlab ci пайплайны для приложения
